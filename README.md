@@ -1,4 +1,4 @@
-# Instagram-analysis2
+# Instagram-analysis
 Interactive Instagram Analytics Dashboard built using Power BI. This project includes data cleaning, transformation, visualization, and the cleaned dataset for analysis.
 # 📊 Instagram Analysis Dashboard (2024–2025)
 Project Overview
